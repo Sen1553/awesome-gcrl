@@ -4,26 +4,26 @@
 
 ### ICML 2024
 
-1. Zheng S, Bai C, Yang Z, et al. How Does Goal Relabeling Improve Sample Efficiency?[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=99UFZV2VpU)
+1. Zheng S, Bai C, Yang Z, et al. **How Does Goal Relabeling Improve Sample Efficiency?**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=99UFZV2VpU)
 
-2. Wang V H, Wang T, Yang W, et al. Probabilistic subgoal representations for hierarchical reinforcement learning[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=b6AwZauZPV)
+2. Wang V H, Wang T, Yang W, et al. **Probabilistic subgoal representations for hierarchical reinforcement learning**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=b6AwZauZPV)
 
-3. Jain V, Ravanbakhsh S. Learning to Reach Goals via Diffusion[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=9jMoHuqjfg)
+3. Jain V, Ravanbakhsh S. **Learning to Reach Goals via Diffusion**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=9jMoHuqjfg)
 
-4. Na H, Moon I. LAGMA: LAtent Goal-guided Multi-Agent Reinforcement Learning[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=gtYdvSGMYV)
+4. Na H, Moon I. **LAGMA: LAtent Goal-guided Multi-Agent Reinforcement Learning**[C]//Forty-first International Conference on Machine Learning. 2024. [[Paper]](https://openreview.net/forum?id=gtYdvSGMYV)
 
 
 ### NeurIPS 2024
 
-1. Gong X, Feng D, Xu K, et al. Goal-Conditioned On-Policy Reinforcement Learning[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=KP7EUORJYI) [[Code]](https://github.com/GongXudong/GCPO)
+1. Gong X, Feng D, Xu K, et al. **Goal-Conditioned On-Policy Reinforcement Learning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=KP7EUORJYI) [[Code]](https://github.com/GongXudong/GCPO)
 
-2. Duan Y, Cui G, Zhu H. Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=9hKN99RNdR)
+2. Duan Y, Cui G, Zhu H. **Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=9hKN99RNdR)
 
-3. Cheng H, Brown J W. Goal Reduction with Loop-Removal Accelerates RL and Models Human Brain Activity in Goal-Directed Learning[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=Y0EfJJeb4V)
+3. Cheng H, Brown J W. **Goal Reduction with Loop-Removal Accelerates RL and Models Human Brain Activity in Goal-Directed Learning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=Y0EfJJeb4V)
 
-4. Yalcinkaya B, Lauffer N, Vazquez-Chanlatte M, et al. Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=6KDZHgrDhG)
+4. Yalcinkaya B, Lauffer N, Vazquez-Chanlatte M, et al. **Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=6KDZHgrDhG)
 
-5. Wu J, Wang Y, Li L, et al. Goal Conditioned Reinforcement Learning for Photo Finishing Tuning[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=4kVHI2uXRE)
+5. Wu J, Wang Y, Li L, et al. **Goal Conditioned Reinforcement Learning for Photo Finishing Tuning**[C]//The Thirty-eighth Annual Conference on Neural Information Processing Systems. 2024. [[Paper]](https://openreview.net/forum?id=4kVHI2uXRE)
 
 
 ### ICLR 2025
