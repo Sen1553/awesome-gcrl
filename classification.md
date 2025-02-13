@@ -115,3 +115,6 @@
 2. Shah D, Eysenbach B, Rhinehart N, et al. **Rapid Exploration for Open-World Navigation with Latent Goal Models**[C]//Conference on Robot Learning. PMLR, 2022: 674-684. **CORL, 2022**. [[Paper]](https://proceedings.mlr.press/v164/shah22a.html)
 
     `TL;DR: Employ an information bottleneck to regularize the learned policy, such to achieve (i) a compact visual representation of goals, (ii) improved generalization capabilities, and (iii) a mechanism for sampling feasible goals for exploration.`
+
+
+## 13. my test pr
